@@ -1,3 +1,15 @@
+# React planner
+
+App for plans and time management.
+
+## Implementation details 
+
+- list of all activities 
+- selected activity page
+- today activities 
+- time frame filter
+- plan new activity form
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

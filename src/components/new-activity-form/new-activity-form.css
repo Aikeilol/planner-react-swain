@@ -1,0 +1,21 @@
+.New-activity-form{
+  max-width: 600px;
+  margin: auto;
+}
+.New-activity-form > div {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.New-activity-form label{
+display: flex;
+flex-direction: column;
+margin-bottom: 10px;
+flex-grow: 1;
+}
+.New-activity-form textarea{
+  resize: none;
+}
+.New-activity-form__input {
+  text-align: center;
+}
